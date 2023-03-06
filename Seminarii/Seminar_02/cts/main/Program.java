@@ -3,7 +3,6 @@ package cts.main;
 import java.io.FileNotFoundException;
 import java.util.List;
 
-import cts.clase.Angajat;
 import cts.clase.Aplicant;
 import cts.clase.reader.ReaderAngajat;
 
